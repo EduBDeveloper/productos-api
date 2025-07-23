@@ -2,6 +2,9 @@
 
 Este es un proyecto completo que permite **gestionar productos** a través de una API REST desarrollada con **Java Spring Boot**, **PostgreSQL** y un frontend simple en **HTML, CSS y JavaScript**.
 
+También aprovecho para comentar que implementé el backend siguiendo una arquitectura en capas (Controller, Service, Repository, DTO, etc.), usando buenas prácticas como inyección de dependencias, validaciones con anotaciones estándar y manejo de errores personalizado. Todo el código está ordenado y comentado para facilitar la revisión 
+
+
  📦 Tecnologías utilizadas
 
  Backend:
